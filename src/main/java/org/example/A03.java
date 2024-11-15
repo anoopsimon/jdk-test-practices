@@ -3,6 +3,8 @@ package org.example;
 public class A03
 {
 
+    //CANT BE SOLVED
+
     //Only failing Example 2. given A=[7,4,-2,4,-2,-9] the function should return 4. the longest switching slice is [4,-2,4,-2]
     //  becuuse this code gives 3 but all other examples worked
     public int solution(int[] array) {
