@@ -1,5 +1,5 @@
 package org.example;
 
 public class A01 {
-    //very difficult. not getting answer.checking
+    //Q3 partially solved. checking Q1
 }
